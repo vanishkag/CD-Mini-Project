@@ -3,6 +3,7 @@
 #include <string.h>
 #include <ctype.h>
 
+//
 // Token types
 typedef enum {
     LPAREN, RPAREN, PLUS, MULT, ID, END

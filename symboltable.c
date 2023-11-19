@@ -4,6 +4,7 @@
 
 #define MAX_SYMBOLS 100
 
+//
 // Structure to represent a symbol entry
 struct SymbolEntry {
     char name[50];

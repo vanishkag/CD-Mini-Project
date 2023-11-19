@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 
+//
 char input[100];
 int index = 0;
 char temp = 'T';
